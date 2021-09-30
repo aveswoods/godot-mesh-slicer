@@ -1,7 +1,7 @@
 # Author: Ava Z. Beaver
 # (MIT License)
 # ---
-# Link to repository:
+# Link to repository: https://github.com/azbeaver/godot-mesh-slicer
 #
 # This script provides a function for slicing meshes along a plane.
 #
